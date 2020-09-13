@@ -275,7 +275,7 @@ img[srcset] {
   --post-link-color: #0366d6;
   --link-hover-color: #30a9de;
   --link-hover-bg-color: #f8f9fa;
-  --navbar-bg-color: #2f4154;
+  --navbar-bg-color: #ffc64b;
   --navbar-text-color: #fff;
 }
 @media (prefers-color-scheme: dark) {
@@ -802,7 +802,7 @@ img[srcset] {
   .navbar .dropdown-collapse,
   .top-nav-collapse,
   .navbar-col-show {
-    background: rgba(47,65,84,0.5);
+    background: rgba(255,198,75,0.5);
     -webkit-backdrop-filter: blur(5px);
     backdrop-filter: blur(5px);
   }
@@ -811,7 +811,7 @@ img[srcset] {
   .navbar .dropdown-collapse,
   .top-nav-collapse,
   .navbar-col-show {
-    background: #2f4154;
+    background: #ffc64b;
   }
 }
 @media (max-width: 767px) {
